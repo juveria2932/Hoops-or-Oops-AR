@@ -1,6 +1,6 @@
-# Hoops-or-Oops
-Basket-Ball Game using SPARK-AR. 
+# Hoops-or-Oops-AR
 
+Augmented Reality game developed on Spark AR Platform. Deployed as a filter on Instagram and Facebook, resembling a basketball game.
 
 
 links for accessing filter:
